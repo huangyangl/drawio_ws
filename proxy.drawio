@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="第 1 页" id="GEGybGt5bx0z5KiXKZZM">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-1" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="huNVSd9VXPu-BpAkS6H6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="sourcePoint" />
+            <mxPoint x="540" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;直接访问&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;客户端&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;资源服务器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="206.25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-14" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="112" y="311.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="327" y="312.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="huNVSd9VXPu-BpAkS6H6-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282" y="381.25" as="sourcePoint" />
+            <mxPoint x="322" y="351.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;代理访问&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="321.25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;客户端&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97" y="391.25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;代理服务器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="392.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-20" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="549" y="93.75" width="90" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;请求&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202" y="321.25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;资源服务器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="392.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="549" y="280" width="90" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="huNVSd9VXPu-BpAkS6H6-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="407" y="350.75" as="sourcePoint" />
+            <mxPoint x="537" y="350.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
